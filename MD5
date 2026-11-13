@@ -1,6 +1,6 @@
-5941bc3cf7f2bccc02b99d464766c286 *DESCRIPTION
+66d177769f876e5fe5754c883fd470d4 *DESCRIPTION
 4dfe2d2af091427d698a273e94dc62c2 *NAMESPACE
-a3895f63148d41beabb19cc32393c8fd *NEWS.md
+b5098ce4394604d9692f7c22d8dfc71c *NEWS.md
 d745cc9f447b7a653f20e6b89263415d *R/BIC.R
 2c611eb996658fc4ab53f14087bbeec6 *R/Derivatives.R
 a5d286e13bdda1d96445d695ca3aaa36 *R/Elbo_grad.R
@@ -16,7 +16,7 @@ f807374dcb9caf5ba9328a431bd4b9a9 *R/Miss_ZIPLNPCA.R
 52dc5ad69484e57c6d1a8523b500929f *R/Miss_ZIPLNPCA_Steps.R
 38b69164735cf7907b2c858a9aa5fb80 *R/Miss_ZIPLNPCA_VE.R
 9c62211caa79997f360791325ffe4dda *R/Miss_ZIPLNPCA_logS.R
-50e1bbcce0bc680eb39caa7ed5276d50 *R/RcppExports.R
+e83e4ebad399cec64312e6390fa75b3c *R/RcppExports.R
 cd8228eb2df6627fa389236926bfa7b7 *R/Second_derivatives.R
 2bb5839a1a2d79c8ebc923c43b5540d8 *R/Simul_fonction.R
 1d44d3f552b383e63909081e4dd52d07 *R/Variance_sandwich.R
@@ -60,7 +60,7 @@ b21bfedf9cd98bfdf9c780715f5d2464 *src/Elbo_gradBB.h
 f72e1b9a1903aeed7ff8ac06d687cbe3 *src/Elbo_gradBB_q0.h
 043ae9830969a290f82a6626c7acc346 *src/Makevars
 58f5a08c620c53e001f933e9da396097 *src/Makevars.win
-d1394ba4feb6ba993f6cefe5e477af22 *src/RcppExports.cpp
+2fee3bd106143dc254fc71db1f8665f3 *src/RcppExports.cpp
 52bb3667de40f8831180e0798d1e019e *src/nlopt_wrapper.cpp
 a93c87d06f97a18bf2663e6ebf23274f *src/nlopt_wrapper.h
 01cadae8b6862cc9c1e02df1a0ac4994 *src/optim_rank_ZIP.cpp
@@ -71,7 +71,6 @@ a93c87d06f97a18bf2663e6ebf23274f *src/nlopt_wrapper.h
 5785da4a606f24e28a3780a768938ce3 *src/optim_rank_cov.cpp
 fa3c4e0b3a7a15d7351f9cc5801d8dce *src/optim_rank_cov_inter.cpp
 16ae79f0aa061bc3e8fa716cfb364212 *src/optim_rank_zip_log.cpp
-076a1604a1b7059a4e3d25bf0477896c *src/packing.cpp
 1e7da738b69d8db732998bb5e0d26ae8 *src/packing.h
 4c0ec41194c43751208969b7f986edfe *src/utils.h
 71392cccea3aa6a8c834dd0d872db462 *src/utilsBB.cpp
